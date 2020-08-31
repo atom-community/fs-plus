@@ -40,7 +40,7 @@
     "async": "^1.5.2",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.5.2",
-    "underscore-plus": "1.x"
+    "underscore-plus": "1.7.0"
   },
   "coffeelintConfig": {
     "no_empty_param_list": {
